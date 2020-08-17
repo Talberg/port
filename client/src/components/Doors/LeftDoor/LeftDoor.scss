@@ -1,0 +1,57 @@
+.leftDoor{
+ position: relative;
+//  left:-.28in;
+//  top:-1.05in;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: .1in .05in .1in 0;
+    border-color: transparent #007bff transparent transparent;
+    z-index: 1003;
+    background-color:transparent;
+
+}
+.disabledL{
+    border-color:  transparent chocolate transparent transparent;
+    z-index: -1;
+}
+.Ltrbl{
+    left:-.44in;
+    top:-.1in;
+}
+.L4{
+    left:-.44in;
+    top:-.1in;
+}
+.Lrbl{
+    left: -.599in;
+    top: 0.19In;
+}
+.Ltbl{
+    left: -0.1in;
+    top: -0.05in;
+}
+.Ltrl{
+    left: -.66in;
+    top: 0.185in;
+}
+.Ltl{
+    left: -0.47in;
+    top: .2in;
+}
+.Ltr{
+    left: 0in;
+    top:0in
+}
+.Lrl{
+    left:-.25in;
+    top:.2in
+}
+.Lbl{
+    left: -0.44in;
+    top: .22in;
+}
+.Ll{
+    left: -0.1in;
+    top: .2in;
+}

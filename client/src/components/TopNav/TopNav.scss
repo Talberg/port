@@ -1,0 +1,30 @@
+@import "../../sass/variable.scss";
+
+.navbar {
+    background: black;
+    box-shadow: 0 3px 10px $dark-text;
+    font-family: $text-font;
+    z-index: 1000;
+
+    a.titleFont {
+        font-family: $title-font;
+        color: greenyellow;
+        position: relative;
+        left:10%
+        
+    }
+
+    a.titleFont:hover {
+        color:greenyellow;
+        font-weight: bold;
+    }
+
+    a.nav-link {
+        font-size: 1.2em;
+    }
+
+    .light-text {
+        color: greenyellow
+    }
+}
+

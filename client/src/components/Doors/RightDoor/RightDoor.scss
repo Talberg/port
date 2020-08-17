@@ -1,0 +1,55 @@
+.rightDoor{
+    position: relative;
+    // right:-.75in;
+    // top:-0.2in;
+       width: 0;
+       height: 0;
+       border-style: solid;
+       border-width: .1in 0 .1in .05in;
+       border-color: transparent transparent transparent #007bff;;
+       z-index: 10000;
+       background-color:transparent;
+ 
+
+}
+.disabledR{
+    border-color: transparent transparent transparent  chocolate;
+    z-index: -1;
+}
+.Rtrbl{
+    right:-.32in;
+    top:.19in;
+}
+.R4{
+    right:-.34in;
+    top:.19in;
+}
+.Rrbl{
+    right:-.7in;
+    top:.19in;
+}
+
+.Rtrl{
+    right:-.34in;
+    top:.19in;
+}
+.Rtrb{
+    right:-.34in;
+    top:.19in;
+}
+.Rtr{
+    right: -.34in;
+    top: .2in;
+}
+.Rrl{
+    right:-.70in;
+    top:.190in
+}
+.Rrb{
+    right:-.7in;
+    top:.2in
+}
+.Rr{
+    right:-0.69in;
+    top:.2in
+}

@@ -1,0 +1,56 @@
+.cardDisplay{
+    height: auto;
+    width: 4in;
+    background-color: black;
+    position: absolute;
+    left: 33%;
+    top:50%;
+    z-index: 20000;
+    display: block;
+   text-align: center;
+    
+    h2{
+        color: white;
+
+    }
+    hr{
+        color: white;
+    }
+
+}
+.cardDescription{
+    position: relative;
+    top: 0in;
+    left: 0in;
+    p{
+        color: white;
+        font-size: 15px;
+        
+    }
+}
+.cardFlavorText{
+    position: relative;
+    top: 0in;
+    left: 0in;
+    p{
+        color: white;
+        font-size: 15px;
+    }
+}
+.hidden{
+    display: none;
+}
+.shown{
+    display: block;
+}
+.cardTitle{
+
+}
+.cardType{
+    z-index: 20000000000000000000000000000000000000000000000000000000;
+    border-bottom: {
+        color: white;
+        width: thin;
+        style: solid;
+    };
+}

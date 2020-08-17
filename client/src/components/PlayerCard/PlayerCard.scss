@@ -1,0 +1,89 @@
+.playerCard{
+    position: relative;
+    top: 0.9in;
+    left: 0in;
+    background-color: red;
+    margin: .4rem;
+    height: auto
+}
+.playerNumber{
+   
+    
+    position: relative;
+    top: 0in;
+    left: 0in;
+    
+    p{
+      text-align: center; 
+       font-size: 25px;
+       margin: 0rem;
+    }
+
+
+}
+
+.characterName{
+    position: relative;
+    top: 0in;
+    left: 0in;
+    p{ text-align: center; 
+        font-size: 15px;
+        margin: 0rem;
+        
+    }
+}
+.speedMight{
+    position: relative;
+    top: -0.1in;
+    left: -0.2in;
+    li{
+        font-size: 10px;
+    }
+}
+.knowledgeSanity{
+    position: relative;
+    top: -.58in;
+    left: .9in;
+    li{
+        font-size: 10px;
+    }
+}
+.companions{
+    position: relative;
+    top: -.8in;
+    left: 0in;
+}
+.items{
+    position: relative;
+    top: -.5in;
+    left: 0in;
+}
+.line1{
+    position: relative;
+    top: 0in;
+    left: 0in;
+
+}
+.line2{
+    position: relative;
+    top: -.65in;
+    left: 0in;
+    
+}
+.movementSpeed{
+    position: relative;
+    top: 0in;
+    left:0in;
+    text-align: center;
+    p{
+        font-size: 17px;
+        border-color: white ;
+        text-shadow: -1px 1px 0 rgb(250, 248, 248), 
+        1px 1px 0 #000, 
+       1px -1px 0 #000,
+      -1px -1px 0 #000
+    }
+}
+.items{
+    
+}

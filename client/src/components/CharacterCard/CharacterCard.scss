@@ -1,0 +1,50 @@
+.characterCard{
+    position: relative;
+    width: auto;
+    height: auto;
+    background-color:rgb(190, 191, 138);
+    p{
+        font-size: 15px;
+    }
+    
+}
+.card{
+width: 50%;
+}
+
+.red{
+background-color: red;
+}
+.white{
+    background-color: white;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+
+}
+.purple{
+background-color: purple ;
+}
+.orange{
+background-color: orange;
+}
+.stats{
+    background-color:lightgray;
+    
+    
+    padding: 1rem;
+    border-radius: 1rem;
+   
+}
+.statsP{
+     
+       
+        color:black;
+        font-weight: bold;
+        
+    
+}
+

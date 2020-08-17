@@ -1,0 +1,23 @@
+.gameDisplay{
+    position: relative;
+    background-color: purple ;
+    width: 33%;
+    height: 20%;
+    top:1rem;
+    padding: 1rem;
+    color: white;
+    left: 1rem;
+    li{
+    background-color: green;
+    padding: .4rem;
+    border-radius: 1rem ;
+    margin: .5rem 0;
+    
+}
+button{
+    border-radius: 0%;
+    
+    margin: 0 .3rem .3rem .3rem;
+}
+}
+

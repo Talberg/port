@@ -1,0 +1,14 @@
+@import '../../sass/variable.scss';
+
+.gameCard{
+    background-color: darkslategray;
+    position: absolute;
+    left:0;
+    width:2.5in;
+    height: auto;
+    z-index: 100;
+    top:.64in;
+    padding-bottom: 1in;
+
+
+}
